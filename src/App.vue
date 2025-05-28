@@ -4,6 +4,7 @@ import SimpleAddMinusMachine from '@/components/form/SimpleAddMinusMachine.vue'
 
 <template>
   <main>
+    123
     <SimpleAddMinusMachine />
   </main>
 </template>
